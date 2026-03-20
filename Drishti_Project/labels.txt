@@ -1,0 +1,11 @@
+0 50_Rupees
+1 10_Rupees
+2 500_Rupees
+3 200_Rupees
+4 100_Rupees
+5 20_Rupees
+6 10_Rupee_Coin
+7 5_Rupee_Coin
+8 1_Rupee_Coin
+9 2_Rupee_Coin
+10 Nothing

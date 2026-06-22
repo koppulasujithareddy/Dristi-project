@@ -15,11 +15,11 @@ Features
 Technologies Used
 
 - Python
-- VS Code
+- Machine Learning
 - OpenCV
 - NumPy
 - Text-to-Speech (TTS)
-- Machine Learning
+- VS code
 
 Project Description
 
